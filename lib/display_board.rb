@@ -2,7 +2,7 @@
 # out the current state.
 
 
-board = ["", "", "", "", "X", "", "", "", ""]
+board = ["", "", "", "", "", "", "", "", ""]
 
 def display_board (board)
   puts "   |   |   "
